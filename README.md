@@ -1,3 +1,17 @@
+Built a Real time chat application and deployed frontend code to netlify and Backend code to Heroku.
+
+Backend stack used - NodeJs, Express and Socekt.io
+Frontend stack used - React
+
+Here is the Live preview : https://kitkatroom.netlify.app/
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
